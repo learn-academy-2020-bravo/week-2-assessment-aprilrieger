@@ -1,4 +1,4 @@
-# Assessment for Week 2
+# April Rieger - Assessment for Week 2
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
